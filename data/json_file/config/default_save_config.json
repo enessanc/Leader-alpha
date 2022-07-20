@@ -1,0 +1,20 @@
+[
+    {
+    "selected_country": null,
+    "selected_party": null,
+    "general_diff": "normal",
+
+    "first_elect": "random",
+
+    "lev_attr_diff": "normal",
+    "vis_trait_diff": "normal",
+    "nvis_trait_diff": "normal",
+
+    "party_start_diff": "normal",
+
+    "character_ai_diff": "normal",
+    "party_ai_diff": "normal",
+    "country_ai_diff": "normal"
+    }
+
+]

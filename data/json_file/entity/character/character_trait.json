@@ -1,0 +1,202 @@
+[
+  {
+    "stringId": "trait0",
+    "name" : "ambitious",
+    "method" : null,
+    "args" : [null],
+    "status": "neutral",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait1",
+    "name" : "hardworking",
+    "method" : null,
+    "args" : [null],
+    "status": "positive",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait3",
+    "name" : "lazy",
+    "method" : null,
+    "args" : [null],
+    "status": "negative",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait4",
+    "name" : "stubborn",
+    "method" : null,
+    "args" : [null],
+    "status": "negative",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait5",
+    "name" : "attractive",
+    "method" : null,
+    "args" : [null],
+    "status": "positive",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait6",
+    "name" : "drunk",
+    "method" : null,
+    "args" : [null],
+    "status": "negative",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait7",
+    "name" : "kemalist",
+    "method" : null,
+    "args" : [null],
+    "status": "neutral",
+    "icon" : null,
+    "country_stringId": "TR",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait8",
+    "name" : "religious",
+    "method" : null,
+    "args" : [null],
+    "status": "neutral",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait9",
+    "name" : "trustworthy",
+    "method" : null,
+    "args" : [null],
+    "status": "positive",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait10",
+    "name" : "self-seeker",
+    "method" : null,
+    "args" : [null],
+    "status": "negative",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+    {
+    "stringId": "trait11",
+    "name" : "honest",
+    "method" : null,
+    "args" : [null],
+    "status": "positive",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait12",
+    "name" : "genius",
+    "method" : null,
+    "args" : [null],
+    "status": "positive",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : true
+  },
+  {
+    "stringId": "trait13",
+    "name" : "brave",
+    "method" : null,
+    "args" : [null],
+    "status": "positive",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait14",
+    "name" : "diplomat",
+    "method" : null,
+    "args" : [null],
+    "status": "positive",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait15",
+    "name" : "stingy",
+    "method" : null,
+    "args" : [null],
+    "status": "negative",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait16",
+    "name" : "lavish",
+    "method" : null,
+    "args" : [null],
+    "status": "negative",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait17",
+    "name" : "pervert",
+    "method" : null,
+    "args" : [null],
+    "status": "negative",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait18",
+    "name" : "satanist",
+    "method" : null,
+    "args" : [null],
+    "status": "negative",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : true
+  },
+  {
+    "stringId": "trait19",
+    "name" : "naive",
+    "method" : null,
+    "args" : [null],
+    "status": "neutral",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  },
+  {
+    "stringId": "trait20",
+    "name" : "generous",
+    "method" : null,
+    "args" : [null],
+    "status": "neutral",
+    "icon" : null,
+    "country_stringId": "global",
+    "is_rare" : false
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "stringId": "ideology_axis0",
+    "axis_index" : 0,
+    "axis_name": "traditional",
+    "left_ideology_stringId": "ideology0",
+    "right_ideology_stringId": "ideology1"
+  },
+  {
+    "stringId": "ideology_axis1",
+    "axis_index" : 1,
+    "axis_name": "economical",
+    "left_ideology_stringId": "ideology2",
+    "right_ideology_stringId": "ideology3"
+  },
+  {
+    "stringId": "ideology_axis2",
+    "axis_index" : 2,
+    "axis_name": "political",
+    "left_ideology_stringId": "ideology4",
+    "right_ideology_stringId": "ideology5"
+  },
+  {
+    "stringId": "ideology_axis3",
+    "axis_index" : 3,
+    "axis_name": "social",
+    "left_ideology_stringId": "ideology6",
+    "right_ideology_stringId": "ideology7"
+  },
+  {
+    "stringId": "ideology_axis4",
+    "axis_index" : 4,
+    "axis_name": "scientific",
+    "left_ideology_stringId": "ideology8",
+    "right_ideology_stringId": "ideology9"
+  }
+]

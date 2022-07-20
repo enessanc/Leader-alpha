@@ -1,0 +1,50 @@
+{
+  "TR":
+    {
+        "male_names" :
+        [
+          "Mehmet", "Ali", "Erdem", "Mahmut", "Süleyman",
+          "Emir", "Rüzgar", "Deniz", "Engin", "Recep",
+          "Emre", "Can", "Burak", "Salih", "Eymen",
+          "Kaya", "Berke", "Mert", "Furkan", "Bilal",
+          "Tayyip", "Devlet", "Berat", "Enes", "Sedat",
+          "Ekrem", "Mansur", "Kemal", "Muharrem", "Ahmet"
+
+        ],
+        "female_names":
+        [
+          "Merve", "Aleyna", "Esma", "Meral", "Selin",
+          "Esra", "Rana", "Deniz", "Tuğçe", "Ravza",
+          "Selen", "Ceren", "Aysel", "Sinem", "Gamze",
+          "Lavinya", "Beyza", "Zeynep", "Fatma", "Bahar",
+          "Tuğba", "Derya", "Feyza", "Umay", "Ümray",
+          "Ilgın", "İzlem", "Oya", "Özge", "Kösem"
+
+        ],
+        "surnames":
+        [
+          "Sancak", "Yılmaz", "Aydemir", "Ekinci", "Erdoğan",
+          "Er", "Kartal", "Türkoğlu", "Ünlü", "Çiçek",
+          "Adıgüzel", "Reisoğulları", "Özoğlu", "İmamoğlu",
+          "Yavaş", "Kaya", "Yılmazer", "Büyüküstün", "Ünal",
+          "Bayar", "Peker", "Yılmazer", "Akşener", "Soyman"
+        ]
+    },
+
+    "USA":
+    {
+      "male_names" :
+      [
+        "John", "Donald"
+      ],
+      "female_names":
+      [
+        "Hillary", "Kamala", "Harris"
+
+      ],
+      "surnames":
+      [
+        "Trump", "Biden", "Clinton"
+      ]
+    }
+}

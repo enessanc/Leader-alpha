@@ -1,0 +1,71 @@
+[
+  {
+    "stringId": "party0",
+    "abbreviation": "TP",
+    "country_stringId": "TR",
+    "ideology" : [-3,-1,0,1,0],
+    "party_character_template_stringId": "party0_template"
+  },
+  {
+    "stringId": "party1",
+    "abbreviation": "YHP",
+    "country_stringId": "TR",
+    "ideology" : [-1, 0, -3, -2, -1],
+    "party_character_template_stringId": "party1_template"
+
+  },
+  {
+    "stringId": "party2",
+    "abbreviation": "SPP",
+    "country_stringId": "TR",
+    "ideology" : [2,-3,-2,-2,1],
+    "party_character_template_stringId": "party2_template"
+
+  },
+  {
+    "stringId": "party3",
+    "abbreviation": "BUP",
+    "country_stringId": "TR",
+    "ideology" : [-1,2,1,3,0],
+    "party_character_template_stringId": "party3_template"
+
+  },
+  {
+    "stringId": "party4",
+    "abbreviation": "KUP",
+    "country_stringId": "TR",
+    "ideology" : [2,3,2,2,1],
+    "party_character_template_stringId": "party4_template"
+
+  },
+  {
+    "stringId": "party5",
+    "abbreviation": "KP",
+    "country_stringId": "TR",
+    "ideology" : [3,1,0,2,0],
+    "party_character_template_stringId": "party5_template"
+
+  },
+  {
+    "stringId": "party6",
+    "abbreviation": "MEP",
+    "country_stringId": "TR",
+    "ideology" : [2, -1, -2, -3, 0],
+    "party_character_template_stringId": "party6_template"
+
+  },
+  {
+    "stringId": "party7",
+    "abbreviation": "UP",
+    "country_stringId": "TR",
+    "ideology" : [1,-1,-2,-1,-3],
+    "party_character_template_stringId": "party7_template"
+  },
+  {
+    "stringId": "party8",
+    "abbreviation": "SP",
+    "country_stringId": "TR",
+    "ideology" : [-1,1,1,1,3],
+    "party_character_template_stringId": "party8_template"
+  }
+]

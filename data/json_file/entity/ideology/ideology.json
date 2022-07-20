@@ -1,0 +1,84 @@
+[
+
+        {
+            "stringId": "ideology0",
+            "name" : "Conservatism",
+            "color" : "rgb(81, 153, 100)",
+            "ideology_axis_stringId": "ideology_axis0",
+            "advantages_stringId": [],
+            "disadvantages_stringId": []
+        },
+        {
+            "stringId": "ideology1",
+            "name" : "Secularism",
+            "color" : "rgb(100, 100, 100)",
+            "ideology_axis_stringId": "ideology_axis0",
+            "advantages_stringId": [],
+            "disadvantages_stringId": []
+        },
+        {
+            "stringId": "ideology2",
+            "name" : "Liberalism",
+            "color" : "rgb(19, 47, 138)",
+            "ideology_axis_stringId": "ideology_axis1",
+            "advantages_stringId": [],
+            "disadvantages_stringId": []
+        },
+        {
+            "stringId": "ideology3",
+            "name" : "Socialism",
+            "color" : "rgb(110, 11, 19)",
+            "ideology_axis_stringId": "ideology_axis1",
+            "advantages_stringId": [],
+            "disadvantages_stringId": []
+        },
+        {
+            "stringId": "ideology4",
+            "name" : "Democratic",
+            "color" : "rgb(255, 106, 0)",
+            "ideology_axis_stringId": "ideology_axis2",
+            "advantages_stringId": [],
+            "disadvantages_stringId": []
+        },
+        {
+            "stringId": "ideology5",
+            "name" : "Authoritarian",
+            "color" : "rgb(64, 27, 1)",
+            "ideology_axis_stringId": "ideology_axis2",
+            "advantages_stringId": [],
+            "disadvantages_stringId": []
+        },
+        {
+            "stringId": "ideology6",
+            "name" : "Globalism",
+            "color" : "rgb(84, 0, 63)",
+            "ideology_axis_stringId": "ideology_axis3",
+            "advantages_stringId": [],
+            "disadvantages_stringId": []
+        },
+        {
+            "stringId": "ideology7",
+            "name" : "Nationalism" ,
+            "color" : "rgb(24, 119, 128)",
+            "ideology_axis_stringId": "ideology_axis3",
+            "advantages_stringId": [],
+            "disadvantages_stringId": []
+        },
+        {
+            "stringId": "ideology8",
+            "name" : "Algorithmism",
+            "color" : "rgb(17, 107, 31)",
+            "ideology_axis_stringId": "ideology_axis4",
+            "advantages_stringId": [],
+            "disadvantages_stringId": []
+        },
+        {
+            "stringId": "ideology9",
+            "name" : "Universalism",
+            "color" : "rgb(0, 0, 0)",
+            "ideology_axis_stringId": "ideology_axis4",
+            "advantages_stringId": [],
+            "disadvantages_stringId": []
+        }
+
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "stringId": "TR",
+        "culture_stringId": "middle_eastern",
+        "religion_stringId": "islam",
+        "nationality_stringIds": ["turkish","kurdish","syrian"],
+        "nationality_percents" : [70,20,10]
+    },
+
+    {
+        "stringId": "USA",
+        "culture_stringId": "western",
+        "religion_stringId": "christianity",
+        "nationality_stringIds": ["white","hispanic","black"],
+        "nationality_percents" : [60,10,30]
+    }
+]

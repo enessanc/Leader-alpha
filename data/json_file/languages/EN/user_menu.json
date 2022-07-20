@@ -1,0 +1,33 @@
+[
+    {
+
+    "button_new_game" : "New Game",
+    "button_saved_games" : "Saved Games",
+    "button_main_settings" : "Settings",
+    "button_credits" : "Credits",
+    "button_main_exit" : "Exit",
+
+    "main_set_label" : "Settings",
+    "set_language" : "Languages:",
+    "set_windowed_mode" : "Windowed Mode",
+    "set_sound_slider" : "Sound Volume:",
+    "set_sound" : "Sound",
+    "set_music_slider" : "Music Volume:",
+    "set_music" : "Music",
+
+    "set_resolution" : "Resolution:",
+    "set_map_detail" : "Map Detail:",
+    "set_face_detail" : "Character Detail:",
+    "set_gui_scale" : "Gui Scale:",
+    "set_usage" : "Show Usages",
+
+    "low" : "Low",
+    "medium" : "Medium",
+    "high" : "High",
+
+    "back_button" : "Back",
+    "reset_button" : "Reset",
+    "save_button" : "Save"
+
+    }
+]

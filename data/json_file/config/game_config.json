@@ -1,0 +1,15 @@
+[
+    {
+        "language": "English",
+        "windowed_mode": true,
+        "sound_volume": null,
+        "sound_on": true,
+        "music_volume": null,
+        "music_on": true,
+        "resolution": "1920*1080",
+        "map_detail": "high",
+        "face_detail": "high",
+        "show_usages": false,
+        "ui_scale": null
+    }
+]

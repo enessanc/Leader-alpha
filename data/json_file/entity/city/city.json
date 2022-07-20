@@ -1,0 +1,988 @@
+[
+{
+  "stringId": "city0",
+  "name": "İstanbul",
+  "country_stringId": "TR",
+  "population" : 20000000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "istanbul_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city1",
+  "country_stringId": "TR",
+  "name": "Ankara",
+  "population" : 9000000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "ankara_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+
+{
+  "stringId": "city2",
+  "name": "İzmir",
+  "country_stringId": "TR",
+  "population" : 5000000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "izmir_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city3",
+  "name": "Bursa",
+  "country_stringId": "TR",
+  "population" : 4000000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "north_west_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city4",
+  "name": "Antalya",
+  "country_stringId": "TR",
+  "population" : 3000000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "south_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city5",
+  "name": "Konya",
+  "country_stringId": "TR",
+  "population" : 2500000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city6",
+  "name": "Adana",
+  "country_stringId": "TR",
+  "population" : 2500000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "south_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city7",
+  "name": "Şanlıurfa",
+  "country_stringId": "TR",
+  "population" : 2700000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "south_east_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city8",
+  "name": "Gaziantep",
+  "country_stringId": "TR",
+  "population" : 2400000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "south_east_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city9",
+  "name": "Kocaeli",
+  "country_stringId": "TR",
+  "population" : 2200000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "north_west_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city10",
+  "name": "Mersin",
+  "country_stringId": "TR",
+  "population" : 2000000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "south_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city11",
+  "name": "Diyarbakır",
+  "country_stringId": "TR",
+  "population" : 2000000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "south_east_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city12",
+  "name": "Hatay",
+  "country_stringId": "TR",
+  "population" : 1800000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "south_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city13",
+  "name": "Manisa",
+  "country_stringId": "TR",
+  "population" : 1600000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "west_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city14",
+  "name": "Kayseri",
+  "country_stringId": "TR",
+  "population" : 1500000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city15",
+  "name": "Samsun",
+  "country_stringId": "TR",
+  "population" : 1400000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "north_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city16",
+  "name": "Balıkesir",
+  "country_stringId": "TR",
+  "population" : 1400000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "north_west_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city17",
+  "name": "Kahramanmaraş",
+  "country_stringId": "TR",
+  "population" : 1300000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "gender_percents" :  [51, 49],
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city18",
+  "name": "Van",
+  "country_stringId": "TR",
+  "population" : 1400000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "east_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city19",
+  "name": "Aydın",
+  "country_stringId": "TR",
+  "population" : 1300000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "south_west_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city20",
+  "name": "Tekirdağ",
+  "country_stringId": "TR",
+  "population" : 1300000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city21",
+  "name": "Sakarya",
+  "country_stringId": "TR",
+  "population" : 1100000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city22",
+  "name": "Denizli",
+  "country_stringId": "TR",
+  "population" : 1100000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city23",
+  "name": "Muğla",
+  "country_stringId": "TR",
+  "population" : 1100000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city24",
+  "name": "Eskişehir",
+  "country_stringId": "TR",
+  "population" : 1000000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city25",
+  "name": "Mardin",
+  "country_stringId": "TR",
+  "population" : 950000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city26",
+  "name": "Trabzon",
+  "country_stringId": "TR",
+  "population" : 910000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city27",
+  "name": "Malatya",
+  "country_stringId": "TR",
+  "population" : 908000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city28",
+  "name": "Ordu",
+  "country_stringId": "TR",
+  "population" : 860000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city29",
+  "name": "Erzurum",
+  "country_stringId": "TR",
+  "population" : 760000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city30",
+  "name": "Afyonkarahisar",
+  "country_stringId": "TR",
+  "population" : 850000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city31",
+  "name": "Sivas",
+  "country_stringId": "TR",
+  "population" : 736000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city32",
+  "name": "Adıyaman",
+  "country_stringId": "TR",
+  "population" : 732000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+{
+  "stringId": "city33",
+  "name": "Batman",
+  "country_stringId": "TR",
+  "population" : 726000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city33",
+  "name": "Tokat",
+  "country_stringId": "TR",
+  "population" : 702000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city34",
+  "name": "Zonguldak",
+  "country_stringId": "TR",
+  "population" : 689000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city35",
+  "name": "Elazığ",
+  "country_stringId": "TR",
+  "population" : 688000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city36",
+  "name": "Kütahya",
+  "country_stringId": "TR",
+  "population" : 680000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city37",
+  "name": "Çanakkale",
+  "country_stringId": "TR",
+  "population" : 600000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city38",
+  "name": "Osmaniye",
+  "country_stringId": "TR",
+  "population" : 570000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city39",
+  "name": "Şırnak",
+  "country_stringId": "TR",
+  "population" : 580000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city40",
+  "name": "Çorum",
+  "country_stringId": "TR",
+  "population" : 550000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city41",
+  "name": "Ağrı",
+  "country_stringId": "TR",
+  "population" : 550000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city42",
+  "name": "Giresun",
+  "country_stringId": "TR",
+  "population" : 470000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city43",
+  "name": "Isparta",
+  "country_stringId": "TR",
+  "population" : 470000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city44",
+  "name": "Aksaray",
+  "country_stringId": "TR",
+  "population" : 450000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city45",
+  "name": "Yozgat",
+  "country_stringId": "TR",
+  "population" : 430000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city46",
+  "name": "Edirne",
+  "country_stringId": "TR",
+  "population" : 420000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city47",
+  "name": "Muş",
+  "country_stringId": "TR",
+  "population" : 415000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city48",
+  "name": "Düzce",
+  "country_stringId": "TR",
+  "population" : 400000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city49",
+  "name": "Kastamonu",
+  "country_stringId": "TR",
+  "population" : 400000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city50",
+  "name": "Uşak",
+  "country_stringId": "TR",
+  "population" : 380000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city51",
+  "name": "Kırklareli",
+  "country_stringId": "TR",
+  "population" : 380000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city52",
+  "name": "Niğde",
+  "country_stringId": "TR",
+  "population" : 390000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city53",
+  "name": "Bitlis",
+  "country_stringId": "TR",
+  "population" : 400000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city54",
+  "name": "Rize",
+  "country_stringId": "TR",
+  "population" : 370000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city55",
+  "name": "Amasya",
+  "country_stringId": "TR",
+  "population" : 350000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city56",
+  "name": "Siirt",
+  "country_stringId": "TR",
+  "population" : 350000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city57",
+  "name": "Bolu",
+  "country_stringId": "TR",
+  "population" : 330000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city58",
+  "name": "Nevşehir",
+  "country_stringId": "TR",
+  "population" : 310000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+
+{
+  "stringId": "city59",
+  "name": "Yalova",
+  "country_stringId": "TR",
+  "population" : 300000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+
+{
+  "stringId": "city60",
+  "name": "Bingöl",
+  "country_stringId": "TR",
+  "population" : 290000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city61",
+  "name": "Kars",
+  "country_stringId": "TR",
+  "population" : 290000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city62",
+  "name": "Hakkari",
+  "country_stringId": "TR",
+  "population" : 300000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city63",
+  "name": "Kırıkkale",
+  "country_stringId": "TR",
+  "population" : 280000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city64",
+  "name": "Burdur",
+  "country_stringId": "TR",
+  "population" : 275000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 600,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city65",
+  "name": "Karaman",
+  "country_stringId": "TR",
+  "population" : 265000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city66",
+  "name": "Karabük",
+  "country_stringId": "TR",
+  "population" : 260000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city67",
+  "name": "Kırşehir",
+  "country_stringId": "TR",
+  "population" : 248000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city68",
+  "name": "Erzincan",
+  "country_stringId": "TR",
+  "population" : 247000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city69",
+  "name": "Bilecik",
+  "country_stringId": "TR",
+  "population" : 235000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city70",
+  "name": "Sinop",
+  "country_stringId": "TR",
+  "population" : 225000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city71",
+  "name": "Iğdır",
+  "country_stringId": "TR",
+  "population" : 230000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city72",
+  "name": "Bartın",
+  "country_stringId": "TR",
+  "population" : 225000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city73",
+  "name": "Çankırı",
+  "country_stringId": "TR",
+  "population" : 200000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city74",
+  "name": "Artvin",
+  "country_stringId": "TR",
+  "population" : 180000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city75",
+  "name": "Gümüşhane",
+  "country_stringId": "TR",
+  "population" : 170000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city76",
+  "name": "Kilis",
+  "country_stringId": "TR",
+  "population" : 165000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city77",
+  "name": "Ardahan",
+  "country_stringId": "TR",
+  "population" : 100000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city78",
+  "name": "Bayburt",
+  "country_stringId": "TR",
+  "population" : 90000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city79",
+  "name": "Tunceli",
+  "country_stringId": "TR",
+  "population" : 90000 ,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+},
+
+{
+  "stringId": "city80",
+  "name": "Batman",
+  "country_stringId": "TR",
+  "population" : 680000,
+  "stability" : 50,
+  "moral" : 50,
+  "prosperity" : 500,
+  "population_identity_template_stringId": "central_TR_template",
+  "initial_ideology_levels": [3,1,0,2,0]
+}
+]

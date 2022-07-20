@@ -1,0 +1,7 @@
+[
+    {
+        "difficulties" : ["very_easy", "easy", "normal", "hard", "very_hard"],
+        "language_base" : ["English", "Türkçe", "Pусский"],
+        "graphic_detail" : ["low", "medium", "high"]
+    }
+]

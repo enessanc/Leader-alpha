@@ -1,0 +1,34 @@
+[
+    {
+
+    "button_new_game" : "Yeni Oyun",
+    "button_saved_games" : "Kayıtlı Oyunlar",
+    "button_main_settings" : "Ayarlar",
+    "button_credits" : "Emeği Geçenler",
+    "button_main_exit" : "Çıkış",
+
+    "main_set_label" : "Ayarlar",
+
+    "set_language" : "Diller:",
+    "set_windowed_mode" : "Pencereli Mod",
+    "set_sound_slider" : "Ses Seviyesi:",
+    "set_sound" : "Ses",
+    "set_music_slider" : "Müzik Seviyesi:",
+    "set_music" : "Müzik",
+
+    "set_resolution" : "Çözünürlük:",
+    "set_map_detail" : "Harita Detayı:",
+    "set_face_detail" : "Karakter Detayı:",
+    "set_gui_scale" : "Arayüz Ölçeği:",
+    "set_usage" : "Kullanımları Göster",
+
+    "low" : "Düşük",
+    "medium" : "Orta",
+    "high" : "Yüksek",
+
+    "back_button" : "Geri Dön",
+    "reset_button" : "Sıfırla",
+    "save_button" : "Kaydet"
+
+    }
+]
