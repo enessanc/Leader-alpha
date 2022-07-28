@@ -11,8 +11,15 @@
 
 namespace Leader
 {
-    IdeologyCoordinate ideology_level_randomizer(std::mt19937_64* generator, const IdeologyCoordinate& center, const float& border);
-    IdeologyCoordinate merge_ideology_levels(const IdeologyCoordinate& first, const IdeologyCoordinate& second);
+    IdeologyCoordinate ideology_level_randomizer(std::mt19937_64* generator,
+                                                 const IdeologyCoordinate& center,
+                                                 const float& border,
+                                                 std::vector<IdeologyAxis> &ideology_axis_objects);
+
+    IdeologyCoordinate merge_ideology_levels(const IdeologyCoordinate& first,
+                                             const IdeologyCoordinate& second,
+                                             std::vector<IdeologyAxis> &ideology_axis_objects);
+
     float ideology_distance_calculator(const IdeologyCoordinate& first, const IdeologyCoordinate& second);
 }
 

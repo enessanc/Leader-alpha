@@ -166,8 +166,14 @@ namespace Leader
 
         //calculating character initial expenditure
         new_character.set_expenditure(find_initial_character_expediture(new_character.get_population_identity().get_economical_group()));
-
         return new_character;
+
+        //TODO: Choice character initial traits and consist character initial identity
+    }
+
+    void initial_player_party_character_overloader()
+    {
+        //TODO: Overload character traits and  charactee identities given diffuculty
     }
 
 
