@@ -5,6 +5,9 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_subdirectory("${CMAKE_SOURCE_DIR}/spdlog")
 include_directories(${PROJECT_SOURCE_DIR})
+include_directories (${CMAKE_CURRENT_BINARY_DIR})
+set(PROJECT_SOURCE_DIR=${PROJECT_SOURCE_DIR})
+configure_file (config.h.in config.h @ONLY)
 
 add_executable(
         Leader
