@@ -32,7 +32,7 @@ namespace Leader
                     );
         std::wstring surname = utf8_to_wstring(temp_surname.at(0));
 
-        //to add naturality nad variety, we want some people have two names
+        //to add naturality and variety, we want some people have two names
         std::uniform_int_distribution<> is_two_named_selector(0,1);
         bool is_two_named = is_two_named_selector(*randomizer);
 
@@ -59,7 +59,7 @@ namespace Leader
                                 1,
                                 *randomizer
                     );
-                    // we should turn into wstrings, because the character names can have special caharacters
+                    // we should turn into wstrings, because the character names can have special characters
                     name = utf8_to_wstring(temp_name.at(0));
                 }
                 break;
@@ -72,7 +72,7 @@ namespace Leader
                                 2,
                                 *randomizer
                     );
-                    // we should turn into wstrings, because the character names can have special caharacters
+                    // we should turn into wstrings, because the character names can have special characters
                     name = utf8_to_wstring(temp_name.at(0)) + L" "+ utf8_to_wstring(temp_name.at(1));
                 } else
                 {
@@ -82,13 +82,10 @@ namespace Leader
                                 1,
                                 *randomizer
                     );
-                    // we should turn into wstrings, because the character names can have special caharacters
+                    // we should turn into wstrings, because the character names can have special characters
                     name = utf8_to_wstring(temp_name.at(0));
                 }
                 break;
-            case GenderGroup_Count:
-                spdlog::error("The gender of characters must be female or male! This is an unexpected result, program is shutting down...");
-                std::exit(EXIT_FAILURE);
             default:
                 spdlog::error("This is an unexpected result in generating character names randomly, program is shutting down...");
                 std::exit(EXIT_FAILURE);
@@ -113,7 +110,20 @@ namespace Leader
         }
     }
 
+    static CharacterIdentity create_character_identity_pure_randomly(std::mt19937_64 *randomizer)
+    {
+        //TODO: Currently, this character creation is pure random; but in the future we want it to be affected by city,country,party states and these states must be moddable
+        std::uniform_int_distribution<int> identity_level_interval(-10,10);
+        CharacterIdentity new_character_identity;
+        new_character_identity.charisma = (float)identity_level_interval(*randomizer);
+        new_character_identity.harmony = (float)identity_level_interval(*randomizer);
+        new_character_identity.intelligence = (float)identity_level_interval(*randomizer);
+        new_character_identity.health = (float)identity_level_interval(*randomizer);
+        return new_character_identity;
+    }
+
     static const IdeologyCoordinate party_unused_ideology_coord;
+    // This global variable is just placeholder to create default variables in the static function named initial_character_creator
 
     static Character initial_character_creator(std::mt19937_64 *randomizer,
                                                const std::string& character_stringId,
@@ -166,14 +176,16 @@ namespace Leader
 
         //calculating character initial expenditure
         new_character.set_expenditure(find_initial_character_expediture(new_character.get_population_identity().get_economical_group()));
+        //choosing character initial identity
+        new_character.set_character_identity(create_character_identity_pure_randomly(randomizer));
         return new_character;
 
-        //TODO: Choice character initial traits and consist character initial identity
+        //TODO: Choice character initial traits
     }
 
     void initial_player_party_character_overloader()
     {
-        //TODO: Overload character traits and  charactee identities given diffuculty
+        //TODO: Overload character traits and  character identities given diffuculty
     }
 
 

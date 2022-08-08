@@ -16,7 +16,7 @@ add_executable(
         source/campaign/entity/population_identity/PopulationIdentity.cpp
         source/campaign/entity/population_identity/PopulationIdentity.h
         source/campaign/entity/population_identity/PopulationIdentityEnums.h
-        source/config/constants.h source/campaign/entity/city/City.cpp
+        source/preference/constants.h source/campaign/entity/city/City.cpp
         source/campaign/entity/city/City.h
         source/campaign/entity/ideology/Ideology.cpp
         source/campaign/entity/ideology/Ideology.h
@@ -31,12 +31,16 @@ add_executable(
         source/campaign/entity/World.h
         source/tools/Randomizer.cpp
         source/tools/Randomizer.h
-        data/json_file/entity/entity_path.h
+        data/data_path.h
         source/tools/JsonTools.h
         source/tools/JsonTools.cpp
         source/campaign/entity/population_identity/PopulationIdentityTemplate.cpp
         source/campaign/entity/ideology/IdeologyMathTools.cpp
-        source/campaign/entity/ideology/IdeologyMathTools.h source/campaign/entity/ideology/IdeologyCoordinate.cpp source/campaign/entity/ideology/IdeologyCoordinate.h source/campaign/entity/character/CharacterCreator.cpp source/campaign/entity/character/CharacterCreator.h)
+        source/campaign/entity/ideology/IdeologyMathTools.h
+        source/campaign/entity/ideology/IdeologyCoordinate.cpp
+        source/campaign/entity/ideology/IdeologyCoordinate.h
+        source/campaign/entity/character/CharacterCreator.cpp
+        source/campaign/entity/character/CharacterCreator.h)
 
 target_link_libraries(Leader PRIVATE spdlog::spdlog)
 

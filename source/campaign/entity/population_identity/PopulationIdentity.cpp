@@ -3,7 +3,7 @@
 //
 
 #include "PopulationIdentity.h"
-#include "source/config/constants.h"
+#include "source/preference/constants.h"
 #include <iostream>
 #include <spdlog/spdlog.h>
 
@@ -47,7 +47,7 @@ namespace Leader
                 this->age = old_age_interval(*generator);
                 return;
             default:
-                std::cout<< "Never ever should hit here!(while externally selecting the age for population identities)\n";
+                spdlog::error("Never ever should hit here!(while externally selecting the age for population identities");
                 std::exit(-1);
         }
     }
@@ -65,7 +65,7 @@ namespace Leader
             case AgeGroup::Old:
                 return 70;
             default:
-                std::cout<< "Never ever should hit here!(while selecting the age for population identities initially)\n";
+                spdlog::error("Never ever should hit here!(while selecting the age for population identities initially)");
                 std::exit(-1);
         }
     }

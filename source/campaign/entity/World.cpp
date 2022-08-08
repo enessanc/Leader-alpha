@@ -5,7 +5,7 @@
 #include "World.h"
 #include <iostream>
 #include "spdlog/spdlog.h"
-#include "data/json_file/entity/entity_path.h"
+#include "data/data_path.h"
 
 namespace Leader {
 
