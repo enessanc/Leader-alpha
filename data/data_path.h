@@ -11,7 +11,7 @@ namespace Leader
 {
     std::string correct_path(const std::string &s) {
         std::string new_string = s;
-        std::replace(new_string.begin(), new_string.end(), '/', '\\'); // replace all 'x' to 'y'
+        //std::replace(new_string.begin(), new_string.end(), '/', '\\'); // replace all 'x' to 'y'
         return new_string;
     }
 

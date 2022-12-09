@@ -3,7 +3,7 @@
 //
 
 #include "IdeologyMathTools.h"
-#include "spdlog/include/spdlog/spdlog.h"
+#include "external/spdlog/include/spdlog/spdlog.h"
 
 namespace Leader
 // static part of these transaction units

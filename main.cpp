@@ -9,7 +9,7 @@
 
 int main(int argc, char* argv[]) {
     std::setlocale(LC_ALL,"Turkish");
-    spdlog::set_level(spdlog::level::debug);
+    spdlog::set_level(spdlog::level::trace);
     std::cout << "Current Game Directory: "<<PROJECT_SOURCE_DIR << "\n";
     auto start = std::chrono::high_resolution_clock::now();
     Leader::World w(2);
