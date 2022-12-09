@@ -3,7 +3,7 @@ project(Leader)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_subdirectory("${CMAKE_SOURCE_DIR}/spdlog")
+add_subdirectory("${CMAKE_SOURCE_DIR}/external/spdlog")
 include_directories(${PROJECT_SOURCE_DIR})
 include_directories (${CMAKE_CURRENT_BINARY_DIR})
 set(PROJECT_SOURCE_DIR=${PROJECT_SOURCE_DIR})
